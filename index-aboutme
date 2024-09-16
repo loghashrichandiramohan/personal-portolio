@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Use latest Font Awesome version -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Icons</title>
+    <link rel="stylesheet" href="./social-media-icons.css">
+    <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
+    <title>intern week 2</title>
+    <script src="script.js" defer></script>
+    
+</head>
+
+<body class="photo">
+    <nav class="vertical-navbar">
+        <div>
+          <img src="C:\shri\orinson intern\intern week2\logo ls.png" class="logo">
+        </div>
+        <ul>
+          <a href="index.html">
+          <li>
+            <div class="home-icon">
+              <div class="roof">
+                <div class="roof-edge"></div>
+              </div>
+              <div class="front"></div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-aboutme.html">
+          <li>
+            <div class="about-icon">
+              <div class="head">
+                <div class="eyes"></div>
+                <div class="beard"></div>
+              </div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-projects.html">
+          <li>
+            <div class="work-icon">
+              <div class="paper"></div>
+              <div class="lines"></div>
+              <div class="lines"></div>
+              <div class="lines"></div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-sayhi.html">
+          <li>
+            <div class="mail-icon">
+              <div class="mail-base">
+                <div class="mail-top"></div>
+              </div>
+            </div>
+          </li>
+          </a>
+    
+        </ul>
+    </nav>
+    <div id="#About-me" > 
+
+        <div class="card card-4 margin-left-30 pl-3  mt-4  mb-4">
+            <h1>About Me</h1>
+            <p>I am an enthusiastic undergraduate student , a future full stack developer with a solid grounding in HTML, CSS, Python. Being a consistent learner eager to discover the existing technologies I have participated in workshops on data analytics, cybersecurity, generative AI and other technical fields , I have developed a broad skill set that blends analytical thinking with practical knowledge.</p>
+          </div>
+
+      <div class="margin-left-60">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+     
+        
+        <!-- The Timeline -->
+        <ul class="timeline ">
+      <!-- Item -2 -->
+      <li>
+        <div class="direction-l">
+          <div class="flag-wrapper">
+            <span class="flag">Intern at Orinson Technologies Private Limited</span>
+            <span class="time-wrapper"><span class="time">2024</span></span>
+          </div>
+          <div class="desc">web development Intern</div>
+        </div>
+      </li>
+    
+          <!-- Item -1 -->
+        <li>
+          <div class="direction-r">
+            <div class="flag-wrapper">
+              <span class="flag">Teaching Assistant at Nxt Wave</span>
+              <span class="time-wrapper"><span class="time">2024 - (Present)</span></span>
+            </div>
+            <div class="desc"></div>
+          </div>
+        </li>
+    
+          <!-- Item 0 -->
+        <li>
+            <div class="direction-l">
+                <div class="flag-wrapper">
+                    <span class="flag">Student at Nxt Wave</span>
+                    <span class="time-wrapper"><span class="time">2023 - 2026(Present)</span></span>
+                </div>
+                <div class="desc">Proud CCBPIAN !!</div>
+            </div>
+        </li>
+    
+        <!-- Item 1 -->
+        <li>
+            <div class="direction-r">
+                <div class="flag-wrapper">
+                    <span class="flag">Rajalakshmi Engineering College</span>
+                    <span class="time-wrapper"><span class="time">2022 - 2026(Present)</span></span>
+                </div>
+                <div class="desc">Pursuing B.Tech - Computer Science And Business Systems<br>CSBS.</div>
+            </div>
+        </li>
+      
+        <!-- Item 2 -->
+        <li>
+            <div class="direction-l">
+                <div class="flag-wrapper">
+                    <span class="flag">Pon Vidyashram - HSC</span>
+                    <span class="time-wrapper"><span class="time">2020 - 2022</span></span>
+                </div>
+                <div class="desc">Percentage: 72.8</div>
+            </div>
+        </li>
+    
+        <!-- Item 3 -->
+        <li>
+            <div class="direction-r">
+                <div class="flag-wrapper">
+                    <span class="flag">Pon Vidyashram - SSLC</span>
+                    <span class="time-wrapper"><span class="time">2019 - 2020</span></span>
+                </div>
+                <div class="desc">Percentage: 86.2</div>
+            </div>
+        </li>
+      
+        </ul>
+      </div>
+
+      <div class="card-1 margin-left-30 pl-3 mb-4 p-3">
+        <h1>Aim</h1>
+        <p>I aim to build a career where I can combine my technical expertise with strong communication skills, ultimately working on projects that drive innovation and add value to the community.</p>
+      </div>
+
+      <div class="card-2 margin-left-30 pl-3 mb-4 p-3">
+        <h1>Goal</h1>
+        <p> My goal is to apply my technical skills in meaningful ways, contributing to projects that solve real-world problems while continuing to learn and grow in business and technical fields</p>
+      </div>
+
+      <div class="card-3 margin-left-30 pl-3 mb-4 p-3 mb-5">
+        <h1>Hobbies</h1>
+        <p> I enjoy solving Rubik's cubes,which makes me look really cool and I love reading self-help and psychological books which allows me to explore new ideas and perspectives . These activities fuel my curiosity and keep me intellectually engaged.</p>
+      </div> 
+    </div> 
+</body>
+</html>
