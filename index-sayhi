@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Use latest Font Awesome version -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Icons</title>
+    <link rel="stylesheet" href="./social-media-icons.css">
+    <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
+    <title>intern week 2</title>
+    <script src="script.js" defer></script>
+    
+</head>
+
+<body class="photo">
+    <nav class="vertical-navbar">
+        <div>
+          <img src="C:\shri\orinson intern\intern week2\logo ls.png" class="logo">
+        </div>
+        <ul>
+          <a href="index.html">
+          <li>
+            <div class="home-icon">
+              <div class="roof">
+                <div class="roof-edge"></div>
+              </div>
+              <div class="front"></div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-aboutme.html">
+          <li>
+            <div class="about-icon">
+              <div class="head">
+                <div class="eyes"></div>
+                <div class="beard"></div>
+              </div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-projects.html">
+          <li>
+            <div class="work-icon">
+              <div class="paper"></div>
+              <div class="lines"></div>
+              <div class="lines"></div>
+              <div class="lines"></div>
+            </div>
+          </li>
+          </a>
+    
+          <a href="index-sayhi.html">
+          <li>
+            <div class="mail-icon">
+              <div class="mail-base">
+                <div class="mail-top"></div>
+              </div>
+            </div>
+          </li>
+          </a>
+    
+        </ul>
+      </nav>
+    <div id="#say-hi" > 
+        <div class="contact_us card  margin-left-30 mt-5 p-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 offset-md-1">
+                        <div class="contact_inner">
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <div class="contact_form_inner">
+                                        <div class="contact_field">
+                                            <h3>Contact</h3>
+                                            <p>Feel Free to contact. I will get back to you as soon as I can!.</p>
+                                            <input type="text" class="form-control form-group" placeholder="Name" />
+                                            <input type="text" class="form-control form-group" placeholder="Email" />
+                                            <textarea class="form-control form-group" placeholder="Message"></textarea>
+                                            <button class="contact_form_submit">Send</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="contact_info_sec mt-5 ">
+                                <h4>Contact Info :</h4>
+                                <div class="social-menu ">
+                                    <ul>
+                                      <li><a href="https://github.com/loghashrichandiramohan" target="_blank"><i class="fab fa-github"></i></a></li>
+                                      <li><a href="https://www.instagram.com/_.loghashri._/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                      <li><a href="https://www.linkedin.com/in/loghashri-c/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                      <li><a href="mailto:loghashri1506@gmail.com" target="_blank"><i class="fas fa-envelope icons mt-3"></i></a></li>
+                                  </ul>
+                                  
+                                  </div>
+            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
